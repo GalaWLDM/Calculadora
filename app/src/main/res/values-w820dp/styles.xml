@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.BotonCalculadora.Azul"></style>
+
+    <style name="AppTheme.BotonCalculadora.Rojo"></style>
+</resources>
